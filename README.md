@@ -107,4 +107,13 @@ Each cluster was analyzed and labeled based on behavior:
 
 ---
 
-## 📁 Project Structure
+
+---
+
+## ✅ Conclusion
+This project demonstrates how **unsupervised machine learning** can effectively segment customers and transform raw data into valuable business insights. The approach can be extended to real-world **CRM, marketing, and sales analytics** applications.
+
+---
+
+## 🤝 Connect With Me
+If you found this project interesting or have suggestions, feel free to connect or contribute! 😊
